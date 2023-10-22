@@ -1,7 +1,10 @@
 ###
 👋 Hey there, Servus, Üdv! My name is Sándor. I am a Mathematics master's student at the Technical University of Munich, originally from Hungary.
+
 💻 I am passionate about Data Science, Machine Learning, Deep Learning, Probability Theory, Algorithm Analysis, and Mathematical Optimization.
+
 🔬 I have already a bit of experience with the following languages & sofware: Python, R, Java, C++, Tableau, Databricks, Git, SQL, Terraform.
+
 🌱 I want to take on any exciting opportunity to learn more about Software Development, NLP, Data Engineering.
 
 <!--
