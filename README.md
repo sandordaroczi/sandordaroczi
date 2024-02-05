@@ -5,7 +5,7 @@
 
 🔬 I have already a bit of experience with the following languages & sofware: Python, R, Java, C++, Tableau, Databricks, Git, SQL, Terraform
 
-🌱 I want to take on any exciting opportunity to improve my skills and learn new technologies. Right now, I am curious to learn about Software Development, NLP, and Data Engineering.
+🌱 I want to take on any exciting opportunity to improve my skills and learn new technologies. Right now, my main focus is to learn about modern ML methods, Graph Neural Networks, Data Engineering, and NLP.
 
 <!--
 **daroczisandor/daroczisandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
