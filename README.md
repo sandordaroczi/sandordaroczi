@@ -1,11 +1,15 @@
 ###
-👋 Hey there, Servus, Üdv! My name is Sándor. I am a Mathematics master's student at the Technical University of Munich, originally from Hungary.
+👋 Hey there, Servus, Üdv! My name is Sándor.
+
+🎓 I am a Mathematics master's student at the Technical University of Munich, originally from Hungary.
 
 💻 I am passionate about Data Science, Machine Learning, Deep Learning, Probability Theory, Algorithm Analysis, and Mathematical Optimization.
 
-🔬 I have already a bit of experience with the following languages & sofware: Python, R, Java, C++, Tableau, Databricks, Git, SQL, Terraform
+🛠️ I already have experience working with the following languages & tools: Python, R, Java, Tableau, Databricks, Git, SQL, Terraform
 
-🌱 I want to take on any exciting opportunity to improve my skills and learn new technologies. Right now, my main focus is to learn about modern ML methods, Graph Neural Networks, Data Engineering, and NLP.
+🌱 I want to take on any exciting opportunity to improve my skills and learn new technologies. Right now, my main focus is to learn about modern machine learning, deep learning, and computer vision methods, including GNNs, CNN architectures, visual computing, and NLP.
+
+🏸 In my free time, I like to play badminton, run, cook, read classics, and learn languages.
 
 <!--
 **daroczisandor/daroczisandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
