@@ -1,15 +1,41 @@
 ###
-👋 Hey there, Servus, Üdv! My name is Sándor.
 
-🎓 I am a Mathematics master's student at the Technical University of Munich, originally from Hungary.
+👋 Hello! I'm Sándor, a Mathematics master's student at the Technical University of Munich.
 
-💻 I am passionate about Data Science, Machine Learning, Deep Learning, Probability Theory, Algorithm Analysis, and Mathematical Optimization.
+🎓 My academic journey is focused on Machine Learning, Deep Learning, and Mathematical Optimization.
 
-🛠️ I already have experience working with the following languages & tools: Python, R, Java, Tableau, Databricks, Git, SQL, Terraform
+## Interests and Expertise
 
-🌱 I want to take on any exciting opportunity to improve my skills and learn new technologies. Right now, my main focus is to learn about modern machine learning, deep learning, and computer vision methods, including GNNs, CNN architectures, visual computing, and NLP.
+💻 I'm passionate about developing cutting-edge AI technologies, with a particular interest in:
 
-🏸 In my free time, I like to play badminton, run, cook, read classics, and learn languages.
+- Large Language Models (LLMs)
+- Efficient ML architectures
+- Large-scale data analytics for data-driven decision making
+- AI model interpretability and reliability
+
+## Technical Skills
+
+🛠️ Experienced with: Python, PyTorch, Transformers, pandas, R, SQL, Git, Databricks, Tableau
+
+## Professional Goals
+
+- Develop innovative ML solutions for industry challenges
+- Bridge the gap between theoretical ML and practical applications
+- Push the boundaries of AI through innovative research
+
+## Current Focus
+
+🌱 Currently, I'm diving deep into:
+
+- Developing and optimizing LLMs
+- Researching AI interpretability and reliability
+- Exploring AI model compression and quantization techniques
+- Implementing deep learning methods for applications in Spectrum Monitoring
+
+## Beyond Work
+
+🌍 When not coding, I'm enjoying long-distance running, exploring new cultures, learning languages, or cooking good food.
+
 
 <!--
 **daroczisandor/daroczisandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
